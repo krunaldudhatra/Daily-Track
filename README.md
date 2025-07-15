@@ -126,13 +126,6 @@ npm run dev
 
 ---
 
-## 🔐 Security
-
-* Passwords never stored in plain text
-* Token-based authentication
-* Authorization check for each habit owner
-
----
 
 ## 📆 Cron Jobs
 
