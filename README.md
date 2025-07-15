@@ -63,7 +63,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/dailytrack.git
+git clone https://github.com/krunaldudhatra/dailytrack.git
 cd dailytrack
 ```
 
@@ -93,12 +93,6 @@ npm run dev
 cd ../frontend
 npm install
 npm run dev
-```
-
-### 5. Access App
-
-Frontend: `http://localhost:3000`
-Backend API: `http://localhost:5000/api`
 
 ---
 
